@@ -13,7 +13,7 @@
 11. [Add Python Dependencies via Airflow Docker Image Extending and Customizing](https://www.youtube.com/watch?v=0UepvC9X4HY&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT&index=11)
 12. [AWS S3 Key Sensor Operator](https://www.youtube.com/watch?v=vuxrhipJMCk&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT&index=12)
 13. [Airflow Hooks S3 PostgreSQL](https://www.youtube.com/watch?v=rcG4WNwi900&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT&index=13)
-
+ 
 ## Running apache airflow 2.0 in docker with local executor.
 Here are the steps to take to get airflow 2.0 running with docker on your machine. 
 1. Clone this repo
